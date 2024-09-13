@@ -1,0 +1,19 @@
+# Ignore cache, log, and generated files
+/generated/
+/var/
+/pub/media/
+/pub/static/
+
+# Magento config files
+app/etc/env.php
+app/etc/config.php
+
+# Node modules
+node_modules/
+
+# IDE or system-specific files
+*.swp
+.idea/
+*.sublime-project
+*.sublime-workspace
+.DS_Store
